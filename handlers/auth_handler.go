@@ -4,7 +4,7 @@ import (
 	"time"
 
 	"github.com/gin-gonic/gin"
-	"github.com/yourusername/gin-firebase-backend/services"
+	"github.com/frientia/gin-firebase-backend/services"
 )
 
 type AuthHandler struct {
