@@ -8,9 +8,9 @@ import (
 	"time"
 
 	"github.com/golang-jwt/jwt/v5"
-	"github.com/yourusername/gin-firebase-backend/config"
-	"github.com/yourusername/gin-firebase-backend/models"
-	"github.com/yourusername/gin-firebase-backend/repositories"
+	"github.com/frientia/gin-firebase-backend/config"
+	"github.com/frientia/gin-firebase-backend/models"
+	"github.com/frientia/gin-firebase-backend/repositories"
 	"gorm.io/gorm"
 )
 
