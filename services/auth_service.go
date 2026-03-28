@@ -7,10 +7,10 @@ import (
 	"strconv"
 	"time"
 
+	"github.com/Frientia/gin-firebase-backend/config"
+	"github.com/Frientia/gin-firebase-backend/models"
+	"github.com/Frientia/gin-firebase-backend/repositories"
 	"github.com/golang-jwt/jwt/v5"
-	"github.com/frientia/gin-firebase-backend/config"
-	"github.com/frientia/gin-firebase-backend/models"
-	"github.com/frientia/gin-firebase-backend/repositories"
 	"gorm.io/gorm"
 )
 

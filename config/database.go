@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/frientia/gin-firebase-backend/models"
+	"github.com/Frientia/gin-firebase-backend/models"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"

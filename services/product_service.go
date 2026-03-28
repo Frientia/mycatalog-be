@@ -1,8 +1,8 @@
 package services
 
 import (
-	"github.com/frientia/gin-firebase-backend/models"
-	"github.com/frientia/gin-firebase-backend/repositories"
+	"github.com/Frientia/gin-firebase-backend/models"
+	"github.com/Frientia/gin-firebase-backend/repositories"
 )
 
 type ProductService struct {

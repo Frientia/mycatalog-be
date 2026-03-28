@@ -4,9 +4,9 @@ import (
 	"net/http"
 	"strconv"
 
+	"github.com/Frientia/gin-firebase-backend/models"
+	"github.com/Frientia/gin-firebase-backend/services"
 	"github.com/gin-gonic/gin"
-	"github.com/frientia/gin-firebase-backend/models"
-	"github.com/frientia/gin-firebase-backend/services"
 )
 
 type ProductHandler struct {

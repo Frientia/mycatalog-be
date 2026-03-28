@@ -1,9 +1,9 @@
 package routes
 
 import (
+	"github.com/Frientia/gin-firebase-backend/handlers"
+	"github.com/Frientia/gin-firebase-backend/middleware"
 	"github.com/gin-gonic/gin"
-	"github.com/frientia/gin-firebase-backend/handlers"
-	"github.com/frientia/gin-firebase-backend/middleware"
 )
 
 func SetupRouter() *gin.Engine {
