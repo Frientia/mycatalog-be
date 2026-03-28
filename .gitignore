@@ -1,8 +1,9 @@
 // .gitignore 
 # .gitignore 
+
 .env 
 firebase-service-account.json 
 *.exe 
 *.test 
 /tmp 
-/vendor 
+/vendor
